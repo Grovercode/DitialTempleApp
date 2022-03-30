@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Hanuman Chalisa</string>
+    <string name="songname1">1. हनुमान  चालीसा </string>
+    <string name="songname2">2. संकट मोचन नाम तिहारो</string>
+    <string name="songname3">3. बजरँग बाण</string>
+    <string name="songname4">4. हे दुःख भन्जन, मारुती नंदन</string>
+    <string name="songname5">5. मंगल मुरति राम दुलारे</string>
+    <string name="songname6">6. जय जय हनुमान</string>
+    <string name="songname7">7. आरती कीजै हनुमान लला की</string>
+
+
+</resources>

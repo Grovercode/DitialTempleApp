@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFDA37</color>
+    <color name="ourorange">#FFDA37</color>
+    <color name="colorPrimaryDark">#FFDA37</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="oldcolor">#FF6633</color>
+</resources>
